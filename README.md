@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Aston React Intensive
+
+### Start 23.05.2022
+
+### End 16.06.2022
+
+### All files
+
+[Lesson 1](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-1)<br>
+[Lesson 2](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-2)<br>
+[Lesson 3](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-3)<br>
+[Lesson 4](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-4)<br>
+[Lesson 5](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-5)<br>
+[Lesson 6](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-6)<br>
+[Lesson 7](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-7)<br>
+[Lesson 8](https://github.com/dxxbletriiiple/react_intensive/tree/master/src/lesson-8)<br>
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +85,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
