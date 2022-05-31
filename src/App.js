@@ -1,3 +1,5 @@
+import { Component } from 'react';
+import LessonOne from './lesson-1/Lesson1';
 import './App.css';
 
 const links = [
@@ -19,15 +21,18 @@ const res = links.map((element, index) => (
 ));
 console.log(res);
 
-function App() {
-	return (
-		<div className="App">
-			<h1>Aston React Intesive</h1>
-			<nav>
-				<ul className="lesson-links">{res}</ul>
-			</nav>
-		</div>
-	);
+class App extends Component {
+	render() {
+		return (
+			<div className="App">
+				{/* <h1>Aston React Intesive</h1>
+				<nav>
+					<ul className="lesson-links">{res}</ul>
+				</nav> */}
+				<LessonOne />
+			</div>
+		);
+	}
 }
 
 export default App;

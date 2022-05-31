@@ -1,0 +1,42 @@
+form {
+	margin: 0 auto;
+	width: 500px;
+	display: block;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 50px;
+}
+
+label {
+	display: block;
+	line-height: 36px;
+}
+input,
+textarea {
+	width: 500px;
+	padding: 10px;
+	background: none;
+	border: 1px solid #61dafb;
+	color: white;
+	font-size: 1rem;
+	outline: none;
+	margin-bottom: 10px;
+}
+input:focus,
+textarea:focus {
+	box-shadow: 5px 5px 20px #61dafb;
+}
+button {
+	border: 1px solid #61dafb;
+	outline: none;
+	width: 200px;
+	height: 50px;
+}
+button.cancel {
+	background: #d24e68;
+	margin-right: 25px;
+}
+button.save {
+	background: #4ed295;
+	margin-left: 25px;
+}
